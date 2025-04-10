@@ -1,5 +1,3 @@
-## UID: 205708807
-
 ## Pipe Up
 
 Project implements low level code to simulate the pipe (|) operator in shells, where users pass in executable names as command line arguments.
